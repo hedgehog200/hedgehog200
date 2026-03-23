@@ -1,7 +1,7 @@
 # Привет, я Full-Stack разработчик и специалист по информационной безопасности 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/hedgehog200)
-[![Telegram](https://img.shields.io/badge/Telegram-@yourhandle-26A5E4?logo=telegram&logoColor=white)](https://t.me/@hee66666)
+[![Telegram](https://img.shields.io/badge/Telegram-@hee66666-26A5E4?logo=telegram&logoColor=white)](https://t.me/@hee66666)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ---
@@ -70,7 +70,7 @@
 
 ## 📫 Связаться со мной
 
-- **Telegram**: [@yourhandle](https://t.me/hee66666)
+- **Telegram**: [@hee66666](https://t.me/hee66666)
 - **Email**: ivanaparin324@gmail.com
 
 
