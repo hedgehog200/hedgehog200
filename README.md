@@ -112,7 +112,15 @@ Telegram bot with automation and security features
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=hedgehog200\&show_icons=true\&theme=radical)
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=hedgehog200&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hedgehog200&theme=tokyonight&hide_border=true" height="150"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hedgehog200&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+
+</div>
 
 ---
 
