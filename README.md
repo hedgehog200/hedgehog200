@@ -24,7 +24,7 @@ I develop **secure, scalable, and production-ready applications** with a strong 
 
 💻 Development
 - Frontend: Vue.js, Vanilla JavaScript  
-- Backend: Node.js (REST API, automation, bots)  
+- Backend: Node.js (REST API, automation, bots), Python (FastAPI, Flask, Pyramid)
 - Desktop: C# / .NET / Electron  
 
 🔐 Security
@@ -46,9 +46,9 @@ I develop **secure, scalable, and production-ready applications** with a strong 
 🛠 Tech Stack
 
 
-Languages:    JavaScript, C#
+Languages:    JavaScript, C#, Python
 Frontend:     Vue.js
-Backend:      Node.js, Telegraf.js
+Backend:      Node.js, Telegraf.js, Python (FastAPI, Flask, Pyramid)
 Desktop:      Electron, .NET
 Databases:    PostgreSQL, MySQL, SQLite
 DevOps:       Docker, CI/CD
@@ -101,6 +101,34 @@ Telegram bot with automation and security features
 
 ---
 
+### 🖥️ GitHubManagerWebUI
+
+📎 [https://github.com/hedgehog200/GitHubManagerWebUI](https://github.com/hedgehog200/GitHubManagerWebUI)
+
+Desktop Git and GitHub client with a modern "Liquid Glass" UI. Built with C# WinForms and WebView2, rendering a full web application inside a custom borderless window.
+
+* Full Git operations (commit, branch, stash, diff)
+* GitHub API integration (PRs, issues, repos)
+* Glassmorphism design, dark/light themes, i18n
+
+**Stack:** C#, .NET 8, WinForms, WebView2, JavaScript
+
+---
+
+### 💾 BackupApp
+
+📎 [https://github.com/hedgehog200/BackupApp](https://github.com/hedgehog200/BackupApp)
+
+Automated backup application for data protection and management.
+
+* Secure and reliable backup routines
+* Structured architecture (Services, Models, Interfaces)
+* Desktop application with modern web-based UI elements
+
+**Stack:** C#, .NET, JavaScript, HTML/CSS
+
+---
+
 ## 🔥 Current Focus
 
 * Secure backend architecture
@@ -130,4 +158,3 @@ Telegram bot with automation and security features
 💬 Telegram: [https://t.me/hee66666](https://t.me/hee66666)
 
 ---
-
